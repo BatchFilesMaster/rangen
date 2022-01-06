@@ -12,7 +12,7 @@ As you can see from the code itself, written by my friend Petri Kokko, the appro
 The idea is that you can easily adjust the list of items that were “saved” to the end of the program, in the “insertion” function, if you want to. (Insertions are generally special because they do something else than writing characters to a file.)
 -AI written
 
-#Epicness
+# Epicness
 Yes, 1 million.
 Far beyond our 1k, hand typed through a week
 With 30+ colors for detail
