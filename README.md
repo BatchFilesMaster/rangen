@@ -10,6 +10,7 @@ That might not sound like much, but it means a million characters can be written
 As you can see from the code itself, written by my friend Petri Kokko, the approach is simple: an array of characters are compared, and if they are similar, “save” them to an array. Repeat this for every possible combination of letters and numbers, then “save” the array and repeat.
 
 The idea is that you can easily adjust the list of items that were “saved” to the end of the program, in the “insertion” function, if you want to. (Insertions are generally special because they do something else than writing characters to a file.)
+
 -AI written
 
 # Epicness
