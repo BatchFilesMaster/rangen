@@ -5,7 +5,7 @@ That’s the smallest program—and one of the smallest ever written—that runs
 
 It also runs on the Raspberry Pi 3.
 
-That might not sound like much, but it means a million characters can be written in 23 lines of code, in any programming language, on any hardware platform.
+That might not sound like much, but it means a million characters can be written in 22 lines of code, in any programming language, on any hardware platform.
 
 As you can see from the code itself, written by my friend Petri Kokko, the approach is simple: an array of characters are compared, and if they are similar, “save” them to an array. Repeat this for every possible combination of letters and numbers, then “save” the array and repeat.
 
