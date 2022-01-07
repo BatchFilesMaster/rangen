@@ -16,6 +16,7 @@ The idea is that you can easily adjust the list of items that were “saved” t
 # Epicness
 Yes, 1 million.
 Far beyond our 1k, hand typed through a week
+
 With 30+ colors for detail
 
 Yes, that is a million word count to a document.
@@ -55,4 +56,4 @@ Clearing the screen
 
 Deleting the file at the end of the output, to get ready for next activation & space
 
-# Thanks for reading this, i guess
+# Thanks for reading this, i guess. kinda a failed project.
