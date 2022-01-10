@@ -1,11 +1,11 @@
 # Rangen
-1 million characters, 22 lines of code.
+Infinite characters, 20 lines of code.
 
 That’s the smallest program—and one of the smallest ever written—that runs in Python.
 
 It also runs on the Raspberry Pi 3.
 
-That might not sound like much, but it means a million characters can be written in 22 lines of code, in any programming language, on any hardware platform.
+That might not sound like much, but it means infinite characters can be written in 20 lines of code, in any programming language, on any hardware platform.
 
 As you can see from the code itself, written by my friend Petri Kokko, the approach is simple: an array of characters are compared, and if they are similar, “save” them to an array. Repeat this for every possible combination of letters and numbers, then “save” the array and repeat.
 
@@ -14,7 +14,7 @@ The idea is that you can easily adjust the list of items that were “saved” t
 -AI written
 
 # Epicness
-Yes, 1 million.
+Yes, Infinite.
 Far beyond our 1k, hand typed through a week
 
 With 30+ colors for detail
