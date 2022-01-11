@@ -62,5 +62,8 @@ Deleting the file at the end of the output, to get ready for next activation & s
 V 1 - Upgraded to Python
 V 1.1 - (current) Less lines, more text.
 # Plans
-V 1.2 - More characters for more security
+V 1.2 - Planning on adding more characters for more security
+
 V 1.2 - Planning on adding version marks in the code for future
+
+V 1.2 - Planning on opening text file for you, just not reading it. Then deleting after opening.
