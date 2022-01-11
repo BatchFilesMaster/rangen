@@ -36,6 +36,8 @@ Step 2: Double click "App.py" and go forth!
 # Notes 
 This will effect your storage for the 2 seconds it generates, we use a single file to output. Do not use if you have under 1 gegabyte
 
+All versions of rangen are supported. No upgrades are necessary.
+
 Librarys used and what they were used for:
 
 # Random
@@ -57,3 +59,8 @@ Clearing the screen
 Deleting the file at the end of the output, to get ready for next activation & space
 
 # Thanks for reading this, i guess. kinda a failed project.
+V 1 - Upgraded to Python
+V 1.1 - (current) Less lines, more text.
+# Plans
+V 1.2 - More characters for more security
+V 1.2 - Planning on adding version marks in the code for future
